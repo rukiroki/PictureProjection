@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.armor_stand.ghost_blocks_p01",
+				"texture_width": 2048,
+				"texture_height": 1264,
+				"visible_bounds_width": 10,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-520, 0, -520],
+							"size": [1024, 1, 1024],
+							"uv": {
+								"up": {"uv": [1024, 1024], "uv_size": [-1024, -1024]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

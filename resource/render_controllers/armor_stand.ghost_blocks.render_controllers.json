@@ -1,0 +1,16 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.armor_stand.ghost_blocks": {
+      "materials": [
+        {
+          "*": "Material.ghost_blocks"
+        }
+      ],
+      "geometry": "query.get_name == 'p01' ? Geometry.ghost_blocks_p01 : (query.get_name == 'p02' ? Geometry.ghost_blocks_p02 : (query.get_name == 'p03' ? Geometry.ghost_blocks_p03 : (query.get_name == 'p04' ? Geometry.ghost_blocks_p04 : (Geometry.default))))",
+      "textures": [
+        "query.get_name == 'p01' ? Texture.ghost_blocks_p01 : (query.get_name == 'p02' ? Texture.ghost_blocks_p02 : (query.get_name == 'p03' ? Texture.ghost_blocks_p03 : (query.get_name == 'p04' ? Texture.ghost_blocks_p04 : (Texture.default))))"
+      ]
+    }
+  }
+}
