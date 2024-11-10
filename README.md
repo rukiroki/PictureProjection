@@ -48,7 +48,7 @@ Place an armor stand at the coordinate (customized in the above image) -1, -1 (a
 ![4775d2fa6433b977efd79a867838775b](https://github.com/user-attachments/assets/3c06c51b-0913-49ad-a8d0-7f807f47adbd)
 
 ### Name the armor stands && Display the image
-Change the orientation of the (0) armor stand to face downwards. Take out the four prepared name tags and name the (1) armor stand "p01", the (2) armor stand "p02", the (3) armor stand "p04", and the (0) armor stand "p03", and the image projection will be displayed around the armor stands.
+Change the orientation of the (0) armor stand to face downwards. Take out the four prepared name tags and name the (1) armor stand "p01", the (2) armor stand "p02", the (3) armor stand "p04", and the (0) armor stand "p03", and the image projection will be displayed around the armor stands. Remove the excess armor racks, leaving only four named ones.
 ![image](https://github.com/user-attachments/assets/a1aa6702-343e-4011-99d0-f16247a43ff1)
 ### Mission accomplished
 Now the map drawing projection is displayed in the world with 80% opacity, and you can start building with the required building materials.
